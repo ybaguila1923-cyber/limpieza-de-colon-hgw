@@ -1,0 +1,7 @@
+{
+  "name": "Detox y Salud Natural - Fresh Drink Chang Jin Jin Santiago de Veraguas",
+  "description": "Landing page oficial de Detox y Salud Natural con Yamilka Batista en Santiago de Veraguas, Panamá. Programa de 6 días con la Bebida Digestiva Fresh Drink Chang Jin Jin de HGW en polvo. Envíos a todo Panamá y pagos por Yappy o Banco General.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
